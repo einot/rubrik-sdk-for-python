@@ -1,4 +1,4 @@
-# Quick Start Guide: Rubrik SDK for Python
+# Quick Start Guide: Rubrik SDK for Python (CDM)
 
 ## Introduction to the Rubrik SDK for Python
 
